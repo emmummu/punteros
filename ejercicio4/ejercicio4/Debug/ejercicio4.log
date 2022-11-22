@@ -1,0 +1,7 @@
+﻿  ejercicio4.cpp
+C:\Users\ALUMNOS\source\repos\punteros\ejercicio4\ejercicio4\ejercicio4.cpp(15,6): warning C4101: 'yabasta': variable local sin referencia
+C:\Users\ALUMNOS\source\repos\punteros\ejercicio4\ejercicio4\ejercicio4.cpp(35,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\ALUMNOS\source\repos\punteros\ejercicio4\ejercicio4\ejercicio4.cpp(42,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\ALUMNOS\source\repos\punteros\ejercicio4\ejercicio4\ejercicio4.cpp(55,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\ALUMNOS\source\repos\punteros\ejercicio4\ejercicio4\ejercicio4.cpp(56,25): warning C4018: '<': no coinciden signed/unsigned
+  ejercicio4.vcxproj -> C:\Users\ALUMNOS\source\repos\punteros\ejercicio4\Debug\ejercicio4.exe
